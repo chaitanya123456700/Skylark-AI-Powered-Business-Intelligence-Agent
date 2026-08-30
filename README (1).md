@@ -351,9 +351,9 @@ The chat UI loads directly from the backend — no separate frontend process nee
 
 > Add screenshots to a `screenshots/` folder next to this README, then reference them below.
 
-| Chat interface | Metric answer with caveat | Leadership update |
-|---|---|---|
-| ![Chat interface](./Images/dashboard.png) | ![Monday boards](./images/monday_boards.png) | ![Leadership update](./screenshots/leadership-update.png) |
+| Chat interface | Monday Boards | Qustion Asked | Question Response |
+|---|---|---|---|
+| ![Chat interface](./Images/dashboard.png) | ![Monday boards](./Images/Monday_boards.png) | ![Question Asked](./Images/agent_question.png) | ![Response](./Images/agent_response.png) |
 
 ## 15. Deliverables Checklist
 
