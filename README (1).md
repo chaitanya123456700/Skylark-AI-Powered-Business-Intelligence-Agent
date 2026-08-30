@@ -353,7 +353,7 @@ The chat UI loads directly from the backend — no separate frontend process nee
 
 | Chat interface | Metric answer with caveat | Leadership update |
 |---|---|---|
-| ![Chat interface](./screenshots/chat-interface.png) | ![Metric answer](./screenshots/metric-answer.png) | ![Leadership update](./screenshots/leadership-update.png) |
+| ![Chat interface](./Images/dashboard.png) | ![Metric answer](./screenshots/metric-answer.png) | ![Leadership update](./screenshots/leadership-update.png) |
 
 ## 15. Deliverables Checklist
 
