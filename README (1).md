@@ -7,11 +7,6 @@
 > reads the **Deals** and **Work Orders** boards live, reasons about the question, and answers in
 > plain business language — with honest caveats when the underlying data is incomplete.
 
-**Live demo:** `[ADD YOUR HOSTED URL HERE]`
-**Decision Log:** [`DECISION_LOG.md`](./DECISION_LOG.md) (2-page assumptions/trade-offs doc)
-**Screenshots:** [see below](#-screenshots)
-
----
 
 ## Table of Contents
 
