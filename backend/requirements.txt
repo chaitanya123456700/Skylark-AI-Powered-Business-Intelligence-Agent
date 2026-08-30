@@ -1,0 +1,10 @@
+fastapi>=0.111
+uvicorn[standard]>=0.30
+google-genai
+requests>=2.31
+pandas>=2.2
+duckdb>=1.0
+python-dotenv>=1.0
+rapidfuzz>=3.9
+python-dateutil>=2.9
+pydantic>=2.7

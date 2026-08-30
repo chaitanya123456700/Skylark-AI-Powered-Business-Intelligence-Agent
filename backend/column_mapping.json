@@ -1,0 +1,30 @@
+{
+  "board_ids": {
+    "deals": 5030970403,
+    "work_orders": 5030970380
+  },
+  "deals": {
+    "client": "text_mm6qqx8c  ",
+    "sector": "text_mm6qa3gk",
+    "stage": "color_mm6qct4k",
+    "value": "numeric_mm6q5kwz",
+    "probability": "numeric_mm6q5z8a",
+    "expected_close_date": "date_mm6q10fh",
+    "actual_close_date": "date_mm6qc0wb",
+    "owner": "text_mm6qt0hg",
+    "notes": "text_mm6q962f"
+  },
+"work_orders": {
+    "client": "text_mm6qrjb5",
+    "sector": "text_mm6q6zvm",
+    "project_name": "text_mm6q1epw",
+    "status": "color_mm6qj19y",
+    "start_date": "date_mm6qewhw",
+    "planned_end_date": "date_mm6qchwp",
+    "actual_end_date": "date_mm6qw67r",
+    "owner": "text_mm6qb5q3",
+    "budget": "numeric_mm6qmpby",
+    "revenue_recognized": "numeric_mm6qhm79",
+    "notes": "text_mm6qs6hx"
+}
+}
